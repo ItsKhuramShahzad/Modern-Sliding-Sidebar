@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,66 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-user-male-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-user-male-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-support-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-user-male-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-update-user-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sort-numeric-up-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list-ol-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-rounded-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ask-question-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-info-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-info-squared-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-gear-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-user-male-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-24 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-select-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-filled-circle-32.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
